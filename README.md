@@ -3,7 +3,7 @@
   
   <!-- 打字特效 -->
   <a href="https://github.com/HaoFan-Fy">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的GitHub主页!;热爱编程，享受创造!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);欢迎来到我的GitHub主页!;热爱编程，享受创造!&center=true&size=27">
   </a>
 </div>
 
@@ -14,7 +14,6 @@
   <!-- 编程语言徽章 -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   
