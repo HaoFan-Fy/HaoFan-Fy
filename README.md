@@ -3,7 +3,7 @@
   
   <!-- 打字特效 -->
   <a href="https://github.com/HaoFan-Fy">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello!%22);fmt.Println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);echo %22Hello%2C%20World!%22;欢迎来到我的GitHub主页!;热爱编程，享受创造!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello!%22);fmt.Println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);欢迎来到我的GitHub主页!;热爱编程，享受创造!&center=true&size=27">
   </a>
 </div>
 
